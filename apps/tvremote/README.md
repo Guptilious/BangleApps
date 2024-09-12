@@ -60,3 +60,8 @@ Vol Commands
 * Swipe Up - Play/Pause
 
 Back Button - Should take you back to the previous menu screen.
+
+# Requests
+Reach out to me [here](https://github.com/Guptiliou) if you have feature requests or notice bugs.
+# Creator
+Made by [Guptilious](https://github.com/Guptilious), becase TV remotes are getting too damn big.
